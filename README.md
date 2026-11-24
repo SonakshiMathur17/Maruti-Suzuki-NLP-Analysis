@@ -66,6 +66,6 @@ Evaluated hypothetical logistics, quality and systemic supply crisis scenarios t
 The project demonstrates how NLP techniques can transform unstructured supplier incident descriptions into structured risk indicators. By combining text analytics, time series forecasting and simulation-based modelling, the analysis provides a framework for examining supplier risk patterns and potential supply chain disruptions.
 
 ---
-**Project:** Group 9  
+
 **Programme:** MBA – Business Analytics  
 **Institution:** NMIMS, Mumbai
